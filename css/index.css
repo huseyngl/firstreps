@@ -1,0 +1,50 @@
+.main{
+	width: 1000px;
+	min-height: 600px;
+/*	background: red;*/
+	float: left;
+}
+
+.header{
+	width: 1000px;
+	min-height: 100px;
+	background: yellow;
+	float: left;
+}
+
+.middle{
+	width: 1000px;
+	min-height: 400px;
+	/*background: black;*/
+	float: left;
+	margin: 15px 0px;
+}
+
+.nav{
+	width: 255px;
+	min-height: inherit;
+	background: yellow;
+	float: left;
+}
+
+.article{
+	width: 500px;
+	min-height: inherit;
+	background: yellow;
+	float: left;
+	margin: 0px 15px;
+}
+
+.ads{
+	width: 215px;
+	min-height: inherit;
+	background: yellow;
+	float: left;
+}
+
+.footer{
+	width: 1000px;
+	min-height: 100px;
+	background: yellow;
+	float: left;
+}
